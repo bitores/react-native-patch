@@ -1,0 +1,131 @@
+[
+    {
+        "v": "0.1.0",
+        "min-v": "4.0.0",
+        "date": "2016-01-01",
+        "des": [
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "11f82563f8fd3f22dccb80ad2297f7bc",
+        "androidBundleMd5": "11f82563f8fd3f22dccb80ad2297f7bc"
+    },
+    {
+        "v": "0.2.0",
+        "min-v": "4.0.0",
+        "date": "2016-01-01",
+        "des": [
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "3ca2824b008132cee515c0ea29938ff2",
+        "androidBundleMd5": "3ca2824b008132cee515c0ea29938ff2"
+    },
+    {
+        "v": "0.3.0",
+        "min-v": "4.0.0",
+        "date": "2016-01-01",
+        "des": [
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "dbb81d2383112abb50eb19970c486acd",
+        "androidBundleMd5": "dbb81d2383112abb50eb19970c486acd"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    },
+    {
+        "v": "1.0.0",
+        "min-v": "4.0.0",
+        "date": "2016-09-21",
+        "des": [
+            "all",
+            "修复xxbug",
+            "添加xx功能"
+        ],
+        "iosBundleMd5": "291B73424F0913776054F332600CA5D1",
+        "androidBundleMd5": "F40E16D2E49661C8AAEF50C2DB38780E"
+    }
+]
